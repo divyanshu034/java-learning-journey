@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class cwh_07_ps1 {
+public class Cwh_07_ps1 {
     static void main(String[] args) {
 //  question 1 summ of 3 number
 //
